@@ -1,38 +1,10 @@
 {
-  "timeout": 7,
+  "timeout": 8,
   "report_url": "XMO0Y0csH8KOwpoqwp4WTsKhw5XDnl_DgkvClsOxwp3Cm8KewqAkwoA1GH3CicKCwpTCgChQw7MrRWEKw4bDkCzClAtQwrHCrMOaR8OYUMKYw7jDnsKfw4DCswfCiUwgd8Kpwo_DisK6MUbDhGZyY0XDh8OZZcOHQX_CnMKDw4dPw6YcwofDlsKgwprCn8K0P8KfRg1Pwq3CjcKxwqYkBMOIfG49YA==",
   "targets": [
     {
-      "proto": "http",
-      "port": 999
-    },
-    {
-      "proto": "http",
-      "port": 3128
-    },
-    {
-      "proto": "http",
-      "port": 8080
-    },
-    {
-      "proto": "http",
-      "port": 8089
-    },
-    {
-      "proto": "http",
-      "port": 8118
-    },
-    {
-      "proto": "http",
-      "port": 57114
-    },
-    {
       "proto": "socks4",
       "port": 1080
-    },
-    {
-      "proto": "socks4",
-      "port": 3629
     },
     {
       "proto": "socks4",
@@ -40,27 +12,7 @@
     },
     {
       "proto": "socks4",
-      "port": 4153
-    },
-    {
-      "proto": "socks4",
       "port": 5678
-    },
-    {
-      "proto": "socks4",
-      "port": 57114
-    },
-    {
-      "proto": "socks5",
-      "port": 1080
-    },
-    {
-      "proto": "socks5",
-      "port": 7302
-    },
-    {
-      "proto": "socks5",
-      "port": 57114
     }
   ]
 }
