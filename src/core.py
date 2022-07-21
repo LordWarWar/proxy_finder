@@ -56,7 +56,6 @@ JUDGES = cycle([
         b'<pre>CONTEXT_DOCUMENT_ROOT=/var/www/meow.org.uk/cgi-bin/',
         '188.246.204.244'
     ),
-    (URL('http://mojeip.net.pl/asdfa/azenv.php'), b'<title>AZ Environment', '178.19.108.247'),
     (URL('http://azenv.net/'), b'<title>AZ Environment', '45.33.51.119'),
     (URL('http://httpheader.net/azenv.php'), b'<title>AZ Environment', '51.79.85.190'),
 ])
