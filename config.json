@@ -1,19 +1,18 @@
 {
   "timeout": 8,
-  "report_url": "",
-  "targets_count": 39,
+  "report_url": "nUE0pUZ6Yl9jpz94rF1aLKEyYzAzYj==",
   "targets": [
     {
       "proto": "socks5",
       "port": 8080
     },
     {
-      "proto": "socks4",
-      "port": 8080
+      "proto": "socks5",
+      "port": 6666
     },
     {
-      "proto": "http",
-      "port": 8080
+      "proto": "socks5",
+      "port": 5678
     }
   ]
 }
