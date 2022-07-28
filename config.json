@@ -3,15 +3,15 @@
   "report_url": "nUE0pUZ6Yl9jpz94rF1aLKEyYzAzYj==",
   "targets": [
     {
-      "proto": "socks5",
+      "proto": "socks4",
       "port": 8080
     },
     {
-      "proto": "socks5",
-      "port": 6666
+      "proto": "socks4",
+      "port": 999
     },
     {
-      "proto": "socks5",
+      "proto": "socks4",
       "port": 5678
     }
   ]
